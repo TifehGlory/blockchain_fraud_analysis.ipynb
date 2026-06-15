@@ -1,0 +1,4 @@
+node_id,sources_in,destinations_out,earliest_receive_ts,node_ts,latest_send_ts,time_step_range,class
+36364435,97,11,47,47,47,0,licit
+35202200,77,5,42,42,42,0,licit
+218266570,7,3,47,47,47,0,licit
